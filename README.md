@@ -1,10 +1,10 @@
 # PyChain Ledger 🔗
 
-### Python blockchain-based ledger system, complete with a user-friendly web interface built with Streamlit.
+Python blockchain-based ledger system, complete with a user-friendly web interface built with Streamlit.
 
 - Source code: [PyChain App](pychain.py)
 
-# Here's How it Works
+# Here's How it Works 👇
 
 ## Store Transactions on the Blockchain
 
