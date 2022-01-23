@@ -1,6 +1,6 @@
 # PyChain Ledger 🔗
 
-Python blockchain-based ledger system, complete with a user-friendly web interface built with Streamlit.
+- Python blockchain-based ledger system, complete with a user-friendly web interface built with Streamlit.
 
 - Source code: [PyChain App](pychain.py)
 
@@ -20,12 +20,12 @@ Expand to full view ↕ of the ledger:
 
 ## Check Previous Transactions
 
-Choose a block to view and review the block's data:
+Choose a block from the dropdown menu and review the block's data:
 
 ![choose-transaction](Images/check_transact.png)
 
 ## Validate Ledger
 
-Validate transactions:
+Validate transactions by clicking on the `Validate` button:
 
 ![validate](Images/validate_chain.png)
