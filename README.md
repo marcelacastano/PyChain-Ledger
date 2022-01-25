@@ -31,3 +31,8 @@ Choose a block from the dropdown menu and review the block's data:
 Validate transactions by clicking on the `Validate` button:
 
 ![validate](Images/validate_chain.png)
+
+
+# Useful Links
+
+[Deploy Streamlit App with Heroku](https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd)
