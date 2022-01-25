@@ -1,8 +1,10 @@
-# PyChain Ledger 🔗 test
+# PyChain Ledger 🔗
 
 - Python blockchain-based ledger system, complete with a user-friendly web interface built with Streamlit.
 
 - Source code: [PyChain App](pychain.py)
+
+- Deployed app: https://grep-pychain-ledger.herokuapp.com/
 
 # Here's How it Works 👇
 
