@@ -1,1 +1,1 @@
-web: gunicorn pychain:app --log-file -
+web: gunicorn pychain:app --preload
