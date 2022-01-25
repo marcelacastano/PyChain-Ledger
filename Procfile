@@ -1,2 +1,1 @@
-web: python pychain.py
-worker: python pychain.py
+web: gunicorn pychain:app --log-file -
