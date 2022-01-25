@@ -1,1 +1,1 @@
-web: gunicorn pychain:app --preload
+web: sh setup.sh && streamlit run pychain.py
